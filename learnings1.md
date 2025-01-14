@@ -1,9 +1,9 @@
-gh repo
-gh repo list
-gh auth
-gh repo clone
-gh auth status
-github.com
+gh repo\
+gh repo list\
+gh auth\
+gh repo clone\
+gh auth status\
+github.com\
   ✓ Logged in to github.com account mdabdullahwasi (/home/abdullah/.config/gh/hosts.yml)
   - Active account: true
   - Git operations protocol: ssh
